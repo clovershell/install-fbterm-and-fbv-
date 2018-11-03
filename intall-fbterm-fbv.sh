@@ -75,7 +75,3 @@ sudo mkdir /usr/share/man/man1
 # 和 ：  https://wiki.archlinux.org/index.php/Fbterm_(简体中文)
 #注意: 第二个链接要包含"(简体中文)"
 
-作者：faner
-链接：https://www.jianshu.com/p/cb690fc395ee
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
